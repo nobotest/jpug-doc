@@ -670,7 +670,7 @@ WALライタは稼働中に一回ページ全体を書き込むように設計�
    Consult <xref linkend="runtime-config"> for general information about
    setting server configuration parameters.
 -->
-データベースの性能に影響するような<acronym>WAL</>に関連した設定パラメータが複数あります。
+データベースの性能に影響するような<acronym>WAL</>に関連した設定パラメータが複数あります。！ワッショイ！
 本節では、その使い方を説明します。
 サーバ設定パラメータの設定方法についての詳細は<xref linkend="runtime-config">を参照してください。
   </para>
